@@ -1,0 +1,9 @@
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\bin\Debug\Negocio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\bin\Debug\Negocio.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\bin\Debug\Dominio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\bin\Debug\Dominio.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\obj\Debug\Negocio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Negocio\obj\Debug\Negocio.pdb

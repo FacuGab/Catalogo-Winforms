@@ -1,0 +1,17 @@
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.csproj.AssemblyReference.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP_WinForm.Form1.resources
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP_WinForm.Properties.Resources.resources
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.csproj.GenerateResource.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.csproj.CoreCompileInputs.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\TP WinForm.exe.config
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\TP WinForm.exe
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\TP WinForm.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\Dominio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\Negocio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\Dominio.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\bin\Debug\Negocio.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.csproj.CopyComplete
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.exe
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP WinForm.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\TP WinForm\obj\Debug\TP_WinForm.frmAltaArticulo.resources

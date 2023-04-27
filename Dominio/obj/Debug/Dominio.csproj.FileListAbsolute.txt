@@ -1,0 +1,6 @@
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Dominio\bin\Debug\Dominio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Dominio\bin\Debug\Dominio.pdb
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Dominio\obj\Debug\Dominio.dll
+C:\Users\facu\Desktop\UTN TUP\Programacion 3\SEGUNDA VEZ !\ejemploBD-1\TRABAJO PRACTICO WINFORMS - ETAPA 1\tp-winform-apugliese-amarilla\Dominio\obj\Debug\Dominio.pdb
